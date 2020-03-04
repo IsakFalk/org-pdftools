@@ -30,7 +30,7 @@
 
 ;;; Code:
 (require 'org)
-(require 'org-refile)
+;;(require 'org-refile)
 (require 'org-noter)
 (require 'pdf-tools)
 (require 'pdf-view)
